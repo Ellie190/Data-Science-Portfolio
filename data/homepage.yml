@@ -32,7 +32,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I am data and tech enthusiast, </strong> that enjoys exploring the application of data science in different fields such as
+    <strong>I am data and tech enthusiast </strong> that enjoys exploring the application of data science in different fields such as
     healthcare, education, government, finance, automotive etc. Amongst my data science explorations, I enjoy 
     watching anime and doing educational volunteer work. 
     </p>
@@ -217,7 +217,7 @@ contact:
     
   phone:
     title: "Phone Number"
-    number: "+27622834719"
+    number: "Available upon request"
   email:
     title: "Email"
     email: '<a href="mailto:nimyellie0512@gmail.com">nimyellie0512@gmail.com</a>'
