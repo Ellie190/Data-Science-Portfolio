@@ -1,0 +1,235 @@
+head:
+  title: "Eli Nimy's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Eli Nimy."
+  subtitle: "Data Scientist"
+  description: "Eli is a Data Science major, aiming to leverage a proven knowledge of Data Science to solve the company's problems and deliver valuable insights"
+  image:
+    x: "img/showcase/data-science-work.gif"
+    _2x: "img/showcase/data-science-work.gif"
+  imageMobile:
+    x: "img/showcase/data-science-work.gif"
+    _2x: "img/showcase/data-science-work.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Eli"
+    URL: "mailto:nimyellie0512@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/eli-nimy-a752a1191/"
+
+    - icon: "github"
+      URL: "https://github.com/Ellie190"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I am data and tech enthusiast, </strong> that enjoys exploring the application of data science in different fields such as
+    healthcare, education, government, finance, automotive etc. Amongst my data science explorations, I enjoy 
+    watching anime and doing educational volunteer work. 
+    </p>
+    <p class="lead">
+    <strong>Skills:</strong>  Data Analytics, Data Cleaning, Data Visualization, Machine Learning, Deep Learning,
+    Communication, Desire to Learn. <br>
+    <strong>Tech Stack:</strong> R, Python, SQL, Git
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/eli-nimy-a752a1191/"
+  image:
+    x: "img/who-am-i/user-image-2.jpg"
+    _2x: "img/who-am-i/user-image-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "4 years of working on data science projects on an academic level (undergrad & postgrad)"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/eli-nimy-a752a1191/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/eli-nimy-resume.pdf"
+  items:
+    - title: "Student Assisstant: Data Science work"
+      company: "Sol Plaatje University"
+      duration: "Feb 2021 - Dec 2022"
+
+    - title: "Academic Tutor"
+      company: "Sol Plaatje University"
+      duration: "Feb 2020 - Nov 2020"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of the Witwatersrand"
+      year: "2022-2022"
+      degree: "Master of Science (MSc) in e-science (Data Science) - Coursework"
+
+    - university: "Sol Plaatje University"
+      year: "2021-2021"
+      degree: "Bachelor of Science Honours (BScHons) in Data Science"
+      
+    - university: "Sol Plaatje University"
+      year: "2018-2020"
+      degree: "Bachelor of Science (BSc) in Data Science"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Student Segmentation Dashboard"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://ds-analytics.shinyapps.io/Student-Segmentation/"
+      image:
+        x: "img/works/student_segmentation.png"
+        _2x: "img/works/student_segmentation.png"
+      is_even: true
+
+    - title: "Google Trends Dashboard"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://ds-analytics.shinyapps.io/Google-Trends-Dashboard/"
+      image:
+        x: "img/works/google-trends.png"
+        _2x: "img/works/google-trends.png"
+      is_even: false
+
+    - title: "Policy Amendment Dashboard"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://ds-analytics.shinyapps.io/Policy-Amendments/"
+      image:
+        x: "img/works/policy-amendment.png"
+        _2x: "img/works/policy-amendment.png"
+      is_even: true
+
+    - title: "Procurement Anomaly Dashboard"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://ds-analytics.shinyapps.io/Anomalies-in-Public-Procurement/"
+      image:
+        x: "img/works/tender-fraud.png"
+        _2x: "img/works/tender-fraud.png"
+      is_even: false
+
+# testimonial
+testimonial:
+  enable: False
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Eli"
+    
+  image:
+    x: "img/who-am-i/user-image-1.jpg"
+    _2x: "img/who-am-i/user-image-1.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:nimyellie0512@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+27622834719"
+  email:
+    title: "Email"
+    email: '<a href="mailto:nimyellie0512@gmail.com">nimyellie0512@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Kimberley, Northern Cape, South Africa"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
