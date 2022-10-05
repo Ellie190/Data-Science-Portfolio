@@ -129,7 +129,7 @@ client_and_work:
 
   works:
     - title: "Student Segmentation Dashboard"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      description: "This application shows how universities can identify and understand student engagement levels using online educational platform data. The application is built using a clustering algorithm named Gaussian Mixture Model to accomplish this."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -140,7 +140,7 @@ client_and_work:
       is_even: true
 
     - title: "Google Trends Dashboard"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      description: "This application provides Google search insights on South African universities and online learning technologies. The application is built using the Google trends API and R shiny."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -151,7 +151,7 @@ client_and_work:
       is_even: false
 
     - title: "Policy Amendment Dashboard"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      description: "This application helps with understanding how natural resources and human development varies in the Northern Cape to inspire data-driven decisions on policy changes. The application is built using the Twitter API, K-means clustering, and R shiny."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -162,7 +162,7 @@ client_and_work:
       is_even: true
 
     - title: "Procurement Anomaly Dashboard"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      description: "This application provides descriptive analysis and identifies anomalies on procurement data. This shows how potential tender fraudulent activities can be identified. The application is built using the anomalize package and R shiny."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
