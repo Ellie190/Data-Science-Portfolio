@@ -38,7 +38,7 @@ about:
     </p>
     <p class="lead">
     <strong>Skills:</strong>  Data Analytics, Data Cleaning, Data Visualization, Machine Learning, Deep Learning,
-    Communication, Desire to Learn. <br>
+    Communication, Desire to Learn, Analytical-thinking, Teamwork, Adaptability. <br>
     <strong>Tech Stack:</strong> R, Python, SQL, Git
     </p>
   button:
@@ -129,7 +129,7 @@ client_and_work:
 
   works:
     - title: "Student Segmentation Dashboard"
-      description: "This application shows how universities can identify and understand student engagement levels using online educational platform data. The application is built using a clustering algorithm named Gaussian Mixture Model to accomplish this."
+      description: "This application shows how universities can identify and understand student engagement levels using online educational platform data. The application is built using a clustering algorithm named Gaussian Mixture Model and R shiny."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
